@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wyz5oicpd-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wyz5oicpd-nodejs-gitops
